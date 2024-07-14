@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and tech, particularly data analyst and data science
 - 🌱 I’m currently learning data science
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rafiedrmwn) or [WhatsApp](wa.me/087871771175)
-- ⚡ Fun fact: nothing specific at the moment
+- ⚡ Some facts: Gooner, Lifelong learner, Video gamer (funny enough, it takes longer to decide which game to play rather than the gaming itself). 
 
 <!---
 rafiedrmwn/rafiedrmwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
